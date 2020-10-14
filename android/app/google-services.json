@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "816439458579",
+    "firebase_url": "https://asymarket-716bc.firebaseio.com",
+    "project_id": "asymarket-716bc",
+    "storage_bucket": "asymarket-716bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816439458579:android:65aac2b2eb187a7604b8e6",
+        "android_client_info": {
+          "package_name": "com.example.asyMarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816439458579-5q1o0piff3396ou4kr2b8j1v814sh7dv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asyMarket",
+            "certificate_hash": "cfbb233e2d96cfc9f9512533609d1dcaae1becfe"
+          }
+        },
+        {
+          "client_id": "816439458579-262c5i0nsuoeap6pea10q7oqf49a1eba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUGdvg99cJky3bxdluNju0mn3B6utF5SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816439458579-262c5i0nsuoeap6pea10q7oqf49a1eba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
